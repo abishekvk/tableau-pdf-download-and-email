@@ -1,0 +1,1 @@
+tabcmd login -s http://sgtcx-tableau.xyz.com -u username-p password

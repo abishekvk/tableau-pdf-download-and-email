@@ -1,0 +1,1 @@
+tabcmd get dashboard_url  -f destination
